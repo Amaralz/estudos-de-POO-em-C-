@@ -1,0 +1,15 @@
+C:\Users\lael\Desktop\orientação a objeto\04ExercicioIMC\obj\Debug\net6.0\04ExercicioIMC.csproj.AssemblyReference.cache
+C:\Users\lael\Desktop\orientação a objeto\04ExercicioIMC\obj\Debug\net6.0\04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lael\Desktop\orientação a objeto\04ExercicioIMC\obj\Debug\net6.0\04ExercicioIMC.AssemblyInfoInputs.cache
+C:\Users\lael\Desktop\orientação a objeto\04ExercicioIMC\obj\Debug\net6.0\04ExercicioIMC.AssemblyInfo.cs
+C:\Users\lael\Desktop\orientação a objeto\04ExercicioIMC\obj\Debug\net6.0\04ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Users\lael\Desktop\orientação a objeto\04ExercicioIMC\bin\Debug\net6.0\04ExercicioIMC.exe
+C:\Users\lael\Desktop\orientação a objeto\04ExercicioIMC\bin\Debug\net6.0\04ExercicioIMC.deps.json
+C:\Users\lael\Desktop\orientação a objeto\04ExercicioIMC\bin\Debug\net6.0\04ExercicioIMC.runtimeconfig.json
+C:\Users\lael\Desktop\orientação a objeto\04ExercicioIMC\bin\Debug\net6.0\04ExercicioIMC.dll
+C:\Users\lael\Desktop\orientação a objeto\04ExercicioIMC\bin\Debug\net6.0\04ExercicioIMC.pdb
+C:\Users\lael\Desktop\orientação a objeto\04ExercicioIMC\obj\Debug\net6.0\04ExercicioIMC.dll
+C:\Users\lael\Desktop\orientação a objeto\04ExercicioIMC\obj\Debug\net6.0\refint\04ExercicioIMC.dll
+C:\Users\lael\Desktop\orientação a objeto\04ExercicioIMC\obj\Debug\net6.0\04ExercicioIMC.pdb
+C:\Users\lael\Desktop\orientação a objeto\04ExercicioIMC\obj\Debug\net6.0\04ExercicioIMC.genruntimeconfig.cache
+C:\Users\lael\Desktop\orientação a objeto\04ExercicioIMC\obj\Debug\net6.0\ref\04ExercicioIMC.dll

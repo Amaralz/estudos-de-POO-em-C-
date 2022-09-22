@@ -1,0 +1,15 @@
+C:\Users\lael\Desktop\orientação a objeto\01conceitos\bin\Debug\net6.0\01conceitos.exe
+C:\Users\lael\Desktop\orientação a objeto\01conceitos\bin\Debug\net6.0\01conceitos.deps.json
+C:\Users\lael\Desktop\orientação a objeto\01conceitos\bin\Debug\net6.0\01conceitos.runtimeconfig.json
+C:\Users\lael\Desktop\orientação a objeto\01conceitos\bin\Debug\net6.0\01conceitos.dll
+C:\Users\lael\Desktop\orientação a objeto\01conceitos\bin\Debug\net6.0\01conceitos.pdb
+C:\Users\lael\Desktop\orientação a objeto\01conceitos\obj\Debug\net6.0\01conceitos.csproj.AssemblyReference.cache
+C:\Users\lael\Desktop\orientação a objeto\01conceitos\obj\Debug\net6.0\01conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lael\Desktop\orientação a objeto\01conceitos\obj\Debug\net6.0\01conceitos.AssemblyInfoInputs.cache
+C:\Users\lael\Desktop\orientação a objeto\01conceitos\obj\Debug\net6.0\01conceitos.AssemblyInfo.cs
+C:\Users\lael\Desktop\orientação a objeto\01conceitos\obj\Debug\net6.0\01conceitos.csproj.CoreCompileInputs.cache
+C:\Users\lael\Desktop\orientação a objeto\01conceitos\obj\Debug\net6.0\01conceitos.dll
+C:\Users\lael\Desktop\orientação a objeto\01conceitos\obj\Debug\net6.0\refint\01conceitos.dll
+C:\Users\lael\Desktop\orientação a objeto\01conceitos\obj\Debug\net6.0\01conceitos.pdb
+C:\Users\lael\Desktop\orientação a objeto\01conceitos\obj\Debug\net6.0\01conceitos.genruntimeconfig.cache
+C:\Users\lael\Desktop\orientação a objeto\01conceitos\obj\Debug\net6.0\ref\01conceitos.dll

@@ -1,0 +1,15 @@
+C:\Users\lael\Desktop\orientação a objeto\02Métodos\obj\Debug\net6.0\02Métodos.csproj.AssemblyReference.cache
+C:\Users\lael\Desktop\orientação a objeto\02Métodos\obj\Debug\net6.0\02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lael\Desktop\orientação a objeto\02Métodos\obj\Debug\net6.0\02Métodos.AssemblyInfoInputs.cache
+C:\Users\lael\Desktop\orientação a objeto\02Métodos\obj\Debug\net6.0\02Métodos.AssemblyInfo.cs
+C:\Users\lael\Desktop\orientação a objeto\02Métodos\obj\Debug\net6.0\02Métodos.csproj.CoreCompileInputs.cache
+C:\Users\lael\Desktop\orientação a objeto\02Métodos\bin\Debug\net6.0\02Métodos.exe
+C:\Users\lael\Desktop\orientação a objeto\02Métodos\bin\Debug\net6.0\02Métodos.deps.json
+C:\Users\lael\Desktop\orientação a objeto\02Métodos\bin\Debug\net6.0\02Métodos.runtimeconfig.json
+C:\Users\lael\Desktop\orientação a objeto\02Métodos\bin\Debug\net6.0\02Métodos.dll
+C:\Users\lael\Desktop\orientação a objeto\02Métodos\bin\Debug\net6.0\02Métodos.pdb
+C:\Users\lael\Desktop\orientação a objeto\02Métodos\obj\Debug\net6.0\02Métodos.dll
+C:\Users\lael\Desktop\orientação a objeto\02Métodos\obj\Debug\net6.0\refint\02Métodos.dll
+C:\Users\lael\Desktop\orientação a objeto\02Métodos\obj\Debug\net6.0\02Métodos.pdb
+C:\Users\lael\Desktop\orientação a objeto\02Métodos\obj\Debug\net6.0\02Métodos.genruntimeconfig.cache
+C:\Users\lael\Desktop\orientação a objeto\02Métodos\obj\Debug\net6.0\ref\02Métodos.dll
